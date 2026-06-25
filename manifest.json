@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "templates": [
+    {
+      "id": "geidi-standard",
+      "name": "Geidi Corporate Signature",
+      "version": "1.0.0",
+      "type": "standard",
+      "url": "standard.html"
+    },
+    {
+      "id": "geidi-reply",
+      "name": "Geidi Reply Signature",
+      "version": "1.0.0",
+      "type": "reply",
+      "url": "reply.html"
+    }
+  ]
+}
